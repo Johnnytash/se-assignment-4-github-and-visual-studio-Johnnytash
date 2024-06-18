@@ -6,7 +6,7 @@ Instructions:
 Answer the following questions based on your understanding of GitHub and Visual Studio. Provide detailed explanations and examples where appropriate.
 
 Questions:
-<!-- Introduction to GitHub -->
+### Introduction to GitHub ###
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 
@@ -23,7 +23,7 @@ Features of GitHub
 7. Social Features.GitHub has social such as following other developers, watching repositories, and receiving notifications about project updates. Which fosters a sense of community and knowledge sharing.
 
 
- <!-- Repositories on GitHub: -->
+ ### Repositories on GitHub: ###
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 
@@ -50,7 +50,7 @@ Essential Elements of a Repository
 4. Code files: This is where you keep your source code for the project organized in files, directories, and sub-directories.
 
 
-<!-- Version Control with Git: -->
+### Version Control with Git: ###
 
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
 
@@ -63,7 +63,7 @@ Version control is the management of changes to files over time allowing one to 
 - Backup and Access Control: The central repository on GitHub acts as a secure backup for your project's history and provides access control to manage who can contribute
 
 
-<!-- Branching and Merging in GitHub: -->
+### Branching and Merging in GitHub: ###
 
 What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
 
@@ -102,7 +102,7 @@ What are branches in GitHub, and why are they important? Describe the process of
     - git push origin main
 
 
-<!-- Pull Requests and Code Reviews: -->
+### Pull Requests and Code Reviews: ###
 
 What is a pull request in GitHub, and how does it facilitate code reviews and collaboration? Outline the steps to create and review a pull request.
 
@@ -152,7 +152,7 @@ A pull request is a way for developers to propose changes to the main codebase a
 
 
 
-<!-- GitHub Actions: -->
+### GitHub Actions: ###
 
 Explain what GitHub Actions are and how they can be used to automate workflows. Provide an example of a simple CI/CD pipeline using GitHub Actions.
 
@@ -258,7 +258,7 @@ This simple CI/CD pipeline ensures that your code is tested automatically on eve
 
 
 
-<!-- Introduction to Visual Studio: -->
+### Introduction to Visual Studio: ###
 
 What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 
@@ -306,7 +306,7 @@ Differences between Visual Studio and Visual Studio Code
 
 
 
-<!-- Integrating GitHub with Visual Studio: -->
+### Integrating GitHub with Visual Studio: ###
 
 Describe the steps to integrate a GitHub repository with Visual Studio. How does this integration enhance the development workflow?
 
@@ -377,7 +377,7 @@ Ensure you have Git installed on your system and the GitHub extension for Visual
 
 
 
-<!-- Debugging in Visual Studio: -->
+### Debugging in Visual Studio: ###
 
 Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
 
@@ -429,7 +429,7 @@ Usage: IntelliTrace captures a timeline of events and state information, allowin
 
 
 
-<!-- Collaborative Development using GitHub and Visual Studio: -->
+### Collaborative Development using GitHub and Visual Studio: ###
 
 Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
 
@@ -471,7 +471,7 @@ Individual developers can work on bug fixes or new features on separate branches
 
 
 
-<!-- Sources -->
+### Sources ###
 
 1. https://github.com/actions/starter-workflows
 
